@@ -1,2 +1,4 @@
-# design-pattern-in-typescript
-Head first design pattern in Typescript
+# Design Pattern in Typescript
+References:
+- Head First Design Pattern
+- Refactoring Guru
