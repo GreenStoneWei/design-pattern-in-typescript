@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/GreenStoneWei/design-pattern-in-typescript/issues"
   },
-  "homepage": "https://github.com/GreenStoneWei/design-pattern-in-typescript#readme"
+  "homepage": "https://github.com/GreenStoneWei/design-pattern-in-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
 }
